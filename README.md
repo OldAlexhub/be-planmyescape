@@ -25,6 +25,6 @@ This Node.js server is part of the PlanMyEscape application, designed to manage 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/PlanMyEscape-Node.git
+   git clone https://github.com/OldAlexhub/be-planmyescape
    cd PlanMyEscape-Node
    ```
